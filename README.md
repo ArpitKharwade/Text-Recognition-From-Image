@@ -9,7 +9,7 @@ This project leverages Optical Character Recognition (OCR) to extract text from 
 
 
 ## Technologies  
-- **Python Libraries:** NumPy, Pandas, PyTesseract, OpenCV, Matplotlib.  
+- **Python Libraries:**  PyTesseract, OpenCV, PIL, Jupyter Notebook 
 - **OCR Engine:** Tesseract-OCR with language packs.  
 
 
